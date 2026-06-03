@@ -3,7 +3,7 @@
 // @license      MIT
 // @namespace    https://tampermonkey.net/
 // @version      1.0.6
-// @description  eBlock (or EADB) blocks all ads at no cost! Easily get rid of ads without any* problems.
+// @description  eBlock (or EADB) blocks all ads at no cost! Easily get rid of ads without any problems.
 // @author       EGem
 // @match        *
 // @icon         https://shorturl.at/BCXFz
