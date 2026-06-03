@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name         eBlock Adblocker
+// @license      MIT
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  eBlock (or EADB) blocks all ads at no cost! Easily get rid of ads without any problems.
