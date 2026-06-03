@@ -1,0 +1,2 @@
+# eBlock - The New Free Adblocker
+eBlock (or EADB for short) blocks all ads at no cost! Easily get rid of ads without any problems. You will need Tampermonkey, Greasemonkey, or Violentmonkey to install eBlock. 1. install one of the 3 extensions above on your browser's web store. 2. install eBlock from GitHub or Greasy Fork. 3. Load your newly installed extension in the extensions tab. 4. Click on eBlock and now you should be blocking ads. Made by EGem 2026.
